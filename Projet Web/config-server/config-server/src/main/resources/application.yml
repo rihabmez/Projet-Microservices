@@ -1,0 +1,7 @@
+attribute:
+  default: null # valeur qui sera utilis�e dans le code
+server:
+  port: 7001 # valeur qui peut �tre utilis�e au d�marrage
+
+# On peut y ajouter ici, les properties de connexion � la BDD
+

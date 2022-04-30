@@ -1,0 +1,6 @@
+attribute:
+  default: null # valeur qui sera utilisée dans le code
+server:
+  port: 7001 # valeur qui peut être utilisée au démarrage
+
+# On peut y ajouter ici, les properties de connexion à la BDD
